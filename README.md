@@ -3,4 +3,4 @@ Digit Recognizer Classifier for the [Kaggle Competition](https://www.kaggle.com/
 
 Implemented using Convolutional Neural Networks
 
-Resulted in 99.071% accuracy but still ranked as 1000+ :broken_heart:
+Resulted in 99.071% accuracy.
